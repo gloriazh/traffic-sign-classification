@@ -1,5 +1,5 @@
 # Load pickled data
-import pickle
+
 import os
 import numpy as np
 from random import randint
